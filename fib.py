@@ -20,6 +20,7 @@ def produceFibsList(n):
     >>> produceFibsList(5)
     [1, 1, 2, 3, 5]
     '''
+	n = int(input("Enter a number: "))
     # TODO = fill in the code here, and return the correct result using the return keyword
     pass
 
